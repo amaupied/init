@@ -1,0 +1,2 @@
+En session graphique on tape le login et mot de passe quand demandé a l'ecran de demarage.
+En session ssh, avec la commande ssh <user>@<ip> puis entrez le mot de passe

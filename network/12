@@ -1,0 +1,1 @@
+ifconfig enp0s3 | grep "inet " | cut -d " " -f10
