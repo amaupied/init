@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "ENTER A PATH"
 read path
 echo $(ls -a $path | sort -h)

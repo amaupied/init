@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "ENTER USERNAME TO DELETE"
 read user
 sudo userdel -r $user
